@@ -22,7 +22,7 @@ This project implements fraud detection for credit card transactions using machi
   - [15. Save Final Results](#15-save-final-results)
 - [Results](#results)
 - [Best Models](#best-models)
-
+- [Result's Table](#results-table)
 ---
 
 ## Overview
